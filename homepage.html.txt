@@ -1,1 +1,2 @@
-<h1> This is homepage text </h1>
+<h1> This is homepage content </h1>
+
